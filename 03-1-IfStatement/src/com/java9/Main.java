@@ -9,7 +9,7 @@ public class Main {
         int n = 3;
 
 	    if (n==3) {
-	        System.out.print("Hey its 3!!!!");
+	        System.out.println("Hey its 3!!!!");
         }
     }
 }

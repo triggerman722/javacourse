@@ -11,9 +11,9 @@ public class Main {
         //degrees = radians * 180 / 3.141592653; // Error
 
         degrees = (int) (radians * 180 / 3.141592653);
-        System.out.print("The result is: " + degrees + "\n");
+        System.out.println("The result is: " + degrees);
 
         blob = radians * 180 / 3.141592653;
-        System.out.print("The result is: " + blob + "\n");
+        System.out.println("The result is: " + blob);
     }
 }

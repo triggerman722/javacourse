@@ -11,6 +11,10 @@
       <module fileurl="file://$PROJECT_DIR$/02-6-Casting/02-6-Casting.iml" filepath="$PROJECT_DIR$/02-6-Casting/02-6-Casting.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-1-IfStatement/03-1-IfStatement.iml" filepath="$PROJECT_DIR$/03-1-IfStatement/03-1-IfStatement.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-2-IfComplicated/03-2-IfComplicated.iml" filepath="$PROJECT_DIR$/03-2-IfComplicated/03-2-IfComplicated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-3-WhileStatement/03-3-WhileStatement.iml" filepath="$PROJECT_DIR$/03-3-WhileStatement/03-3-WhileStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-4-ForStatement/03-4-ForStatement.iml" filepath="$PROJECT_DIR$/03-4-ForStatement/03-4-ForStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-1-Classes/04-1-Classes.iml" filepath="$PROJECT_DIR$/04-1-Classes/04-1-Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-2-Methods/04-2-Methods.iml" filepath="$PROJECT_DIR$/04-2-Methods/04-2-Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-1-KeyboardInput/08-1-KeyboardInput.iml" filepath="$PROJECT_DIR$/08-1-KeyboardInput/08-1-KeyboardInput.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-BasicWeb/08-BasicWeb.iml" filepath="$PROJECT_DIR$/08-BasicWeb/08-BasicWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/course.iml" filepath="$PROJECT_DIR$/course.iml" />

@@ -4,10 +4,10 @@ public class Main {
 
     public static void main(String[] args) {
         String Mutant = "Mutant";
-        System.out.print(Mutant + "\n");
+        System.out.println(Mutant);
         Mutant = "Sally";
-        System.out.print(Mutant + "\n");
+        System.out.println(Mutant);
         Mutant = "Gunther";
-        System.out.print(Mutant + "\n");
+        System.out.println(Mutant);
     }
 }
