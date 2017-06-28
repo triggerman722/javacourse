@@ -15,8 +15,16 @@
       <module fileurl="file://$PROJECT_DIR$/03-4-ForStatement/03-4-ForStatement.iml" filepath="$PROJECT_DIR$/03-4-ForStatement/03-4-ForStatement.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-1-Classes/04-1-Classes.iml" filepath="$PROJECT_DIR$/04-1-Classes/04-1-Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-2-Methods/04-2-Methods.iml" filepath="$PROJECT_DIR$/04-2-Methods/04-2-Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-3-Objects/04-3-Objects.iml" filepath="$PROJECT_DIR$/04-3-Objects/04-3-Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-4-Constructors/04-4-Constructors.iml" filepath="$PROJECT_DIR$/04-4-Constructors/04-4-Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-5-MainMethod/04-5-MainMethod.iml" filepath="$PROJECT_DIR$/04-5-MainMethod/04-5-MainMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-6-Abstract/04-6-Abstract.iml" filepath="$PROJECT_DIR$/04-6-Abstract/04-6-Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-6-Inheritance/04-6-Inheritance.iml" filepath="$PROJECT_DIR$/04-6-Inheritance/04-6-Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-1-KeyboardInput/08-1-KeyboardInput.iml" filepath="$PROJECT_DIR$/08-1-KeyboardInput/08-1-KeyboardInput.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-BasicWeb/08-BasicWeb.iml" filepath="$PROJECT_DIR$/08-BasicWeb/08-BasicWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-14-4-TemplateView/10-14-4-TemplateView.iml" filepath="$PROJECT_DIR$/10-14-4-TemplateView/10-14-4-TemplateView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-14-5-TransformView/10-14-5-TransformView.iml" filepath="$PROJECT_DIR$/10-14-5-TransformView/10-14-5-TransformView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-14-6-TwoStageView/10-14-6-TwoStageView.iml" filepath="$PROJECT_DIR$/10-14-6-TwoStageView/10-14-6-TwoStageView.iml" />
       <module fileurl="file://$PROJECT_DIR$/course.iml" filepath="$PROJECT_DIR$/course.iml" />
     </modules>
   </component>
