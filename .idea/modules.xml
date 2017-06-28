@@ -20,6 +20,12 @@
       <module fileurl="file://$PROJECT_DIR$/04-5-MainMethod/04-5-MainMethod.iml" filepath="$PROJECT_DIR$/04-5-MainMethod/04-5-MainMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-6-Abstract/04-6-Abstract.iml" filepath="$PROJECT_DIR$/04-6-Abstract/04-6-Abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-6-Inheritance/04-6-Inheritance.iml" filepath="$PROJECT_DIR$/04-6-Inheritance/04-6-Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-7-Interfaces/04-7-Interfaces.iml" filepath="$PROJECT_DIR$/04-7-Interfaces/04-7-Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-1-CatchingExceptions/05-1-CatchingExceptions.iml" filepath="$PROJECT_DIR$/05-1-CatchingExceptions/05-1-CatchingExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-2-ThrowingExceptions/05-2-ThrowingExceptions.iml" filepath="$PROJECT_DIR$/05-2-ThrowingExceptions/05-2-ThrowingExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-3-DeclareException/05-3-DeclareException.iml" filepath="$PROJECT_DIR$/05-3-DeclareException/05-3-DeclareException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-4-UncheckedException/05-4-UncheckedException.iml" filepath="$PROJECT_DIR$/05-4-UncheckedException/05-4-UncheckedException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-5-Finally/05-5-Finally.iml" filepath="$PROJECT_DIR$/05-5-Finally/05-5-Finally.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-1-KeyboardInput/08-1-KeyboardInput.iml" filepath="$PROJECT_DIR$/08-1-KeyboardInput/08-1-KeyboardInput.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-BasicWeb/08-BasicWeb.iml" filepath="$PROJECT_DIR$/08-BasicWeb/08-BasicWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-14-4-TemplateView/10-14-4-TemplateView.iml" filepath="$PROJECT_DIR$/10-14-4-TemplateView/10-14-4-TemplateView.iml" />
