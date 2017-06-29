@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/02-4-Mutant/02-4-Mutant.iml" filepath="$PROJECT_DIR$/02-4-Mutant/02-4-Mutant.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-5-Immutant/02-5-Immutant.iml" filepath="$PROJECT_DIR$/02-5-Immutant/02-5-Immutant.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-6-Casting/02-6-Casting.iml" filepath="$PROJECT_DIR$/02-6-Casting/02-6-Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-7-VariableScope/02-7-VariableScope.iml" filepath="$PROJECT_DIR$/02-7-VariableScope/02-7-VariableScope.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-1-IfStatement/03-1-IfStatement.iml" filepath="$PROJECT_DIR$/03-1-IfStatement/03-1-IfStatement.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-2-IfComplicated/03-2-IfComplicated.iml" filepath="$PROJECT_DIR$/03-2-IfComplicated/03-2-IfComplicated.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-3-WhileStatement/03-3-WhileStatement.iml" filepath="$PROJECT_DIR$/03-3-WhileStatement/03-3-WhileStatement.iml" />
@@ -22,11 +23,15 @@
       <module fileurl="file://$PROJECT_DIR$/04-6-Abstract/04-6-Abstract.iml" filepath="$PROJECT_DIR$/04-6-Abstract/04-6-Abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-6-Inheritance/04-6-Inheritance.iml" filepath="$PROJECT_DIR$/04-6-Inheritance/04-6-Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-7-Interfaces/04-7-Interfaces.iml" filepath="$PROJECT_DIR$/04-7-Interfaces/04-7-Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-8-AccessSpecifiers/04-8-AccessSpecifiers.iml" filepath="$PROJECT_DIR$/04-8-AccessSpecifiers/04-8-AccessSpecifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-9-Polymorphism/04-9-Polymorphism.iml" filepath="$PROJECT_DIR$/04-9-Polymorphism/04-9-Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-1-CatchingExceptions/05-1-CatchingExceptions.iml" filepath="$PROJECT_DIR$/05-1-CatchingExceptions/05-1-CatchingExceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-2-ThrowingExceptions/05-2-ThrowingExceptions.iml" filepath="$PROJECT_DIR$/05-2-ThrowingExceptions/05-2-ThrowingExceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-3-DeclareException/05-3-DeclareException.iml" filepath="$PROJECT_DIR$/05-3-DeclareException/05-3-DeclareException.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-4-UncheckedException/05-4-UncheckedException.iml" filepath="$PROJECT_DIR$/05-4-UncheckedException/05-4-UncheckedException.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-5-Finally/05-5-Finally.iml" filepath="$PROJECT_DIR$/05-5-Finally/05-5-Finally.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-1-Arrays/06-1-Arrays.iml" filepath="$PROJECT_DIR$/06-1-Arrays/06-1-Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-1-SampleProgram/07-1-SampleProgram.iml" filepath="$PROJECT_DIR$/07-1-SampleProgram/07-1-SampleProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-1-KeyboardInput/08-1-KeyboardInput.iml" filepath="$PROJECT_DIR$/08-1-KeyboardInput/08-1-KeyboardInput.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-BasicWeb/08-BasicWeb.iml" filepath="$PROJECT_DIR$/08-BasicWeb/08-BasicWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-14-4-TemplateView/10-14-4-TemplateView.iml" filepath="$PROJECT_DIR$/10-14-4-TemplateView/10-14-4-TemplateView.iml" />
