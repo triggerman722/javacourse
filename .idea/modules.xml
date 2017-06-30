@@ -34,9 +34,35 @@
       <module fileurl="file://$PROJECT_DIR$/07-1-SampleProgram/07-1-SampleProgram.iml" filepath="$PROJECT_DIR$/07-1-SampleProgram/07-1-SampleProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-1-KeyboardInput/08-1-KeyboardInput.iml" filepath="$PROJECT_DIR$/08-1-KeyboardInput/08-1-KeyboardInput.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-BasicWeb/08-BasicWeb.iml" filepath="$PROJECT_DIR$/08-BasicWeb/08-BasicWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-1-AbstractFactory/09-1-AbstractFactory.iml" filepath="$PROJECT_DIR$/09-1-AbstractFactory/09-1-AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-10-Facade/09-10-Facade.iml" filepath="$PROJECT_DIR$/09-10-Facade/09-10-Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-11-Flyweight/09-11-Flyweight.iml" filepath="$PROJECT_DIR$/09-11-Flyweight/09-11-Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-12-Proxy/09-12-Proxy.iml" filepath="$PROJECT_DIR$/09-12-Proxy/09-12-Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-13-ChainofResponsibility/09-13-ChainofResponsibility.iml" filepath="$PROJECT_DIR$/09-13-ChainofResponsibility/09-13-ChainofResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-14-Command/09-14-Command.iml" filepath="$PROJECT_DIR$/09-14-Command/09-14-Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-15-Interpreter/09-15-Interpreter.iml" filepath="$PROJECT_DIR$/09-15-Interpreter/09-15-Interpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-16-Iterator/09-16-Iterator.iml" filepath="$PROJECT_DIR$/09-16-Iterator/09-16-Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-17-Mediator/09-17-Mediator.iml" filepath="$PROJECT_DIR$/09-17-Mediator/09-17-Mediator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-18-Memento/09-18-Memento.iml" filepath="$PROJECT_DIR$/09-18-Memento/09-18-Memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-19-Observer/09-19-Observer.iml" filepath="$PROJECT_DIR$/09-19-Observer/09-19-Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-2-Builder/09-2-Builder.iml" filepath="$PROJECT_DIR$/09-2-Builder/09-2-Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-20-State/09-20-State.iml" filepath="$PROJECT_DIR$/09-20-State/09-20-State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-21-Strategy/09-21-Strategy.iml" filepath="$PROJECT_DIR$/09-21-Strategy/09-21-Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-22-TemplateMethod/09-22-TemplateMethod.iml" filepath="$PROJECT_DIR$/09-22-TemplateMethod/09-22-TemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-23-Visitor/09-23-Visitor.iml" filepath="$PROJECT_DIR$/09-23-Visitor/09-23-Visitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-3-FactoryMethod/09-3-FactoryMethod.iml" filepath="$PROJECT_DIR$/09-3-FactoryMethod/09-3-FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-4-Prototype/09-4-Prototype.iml" filepath="$PROJECT_DIR$/09-4-Prototype/09-4-Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-5-Singleton/09-5-Singleton.iml" filepath="$PROJECT_DIR$/09-5-Singleton/09-5-Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-6-Adapter/09-6-Adapter.iml" filepath="$PROJECT_DIR$/09-6-Adapter/09-6-Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-7-Bridge/09-7-Bridge.iml" filepath="$PROJECT_DIR$/09-7-Bridge/09-7-Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-8-Composite/09-8-Composite.iml" filepath="$PROJECT_DIR$/09-8-Composite/09-8-Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-9-Decorator/09-9-Decorator.iml" filepath="$PROJECT_DIR$/09-9-Decorator/09-9-Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-14-4-TemplateView/10-14-4-TemplateView.iml" filepath="$PROJECT_DIR$/10-14-4-TemplateView/10-14-4-TemplateView.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-14-5-TransformView/10-14-5-TransformView.iml" filepath="$PROJECT_DIR$/10-14-5-TransformView/10-14-5-TransformView.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-14-6-TwoStageView/10-14-6-TwoStageView.iml" filepath="$PROJECT_DIR$/10-14-6-TwoStageView/10-14-6-TwoStageView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-1-Birds/11-1-Birds.iml" filepath="$PROJECT_DIR$/11-1-Birds/11-1-Birds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-2-LondonIceCream/11-2-LondonIceCream.iml" filepath="$PROJECT_DIR$/11-2-LondonIceCream/11-2-LondonIceCream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-3-WebUML/11-3-WebUML.iml" filepath="$PROJECT_DIR$/11-3-WebUML/11-3-WebUML.iml" />
       <module fileurl="file://$PROJECT_DIR$/course.iml" filepath="$PROJECT_DIR$/course.iml" />
     </modules>
   </component>
