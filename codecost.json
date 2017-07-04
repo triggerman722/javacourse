@@ -2,7 +2,7 @@
   "currency":"cad",
   "hourly_rates": [
     {
-      "author_email":"gemartin@gmail.com",
+      "author_email":"triggerman@bitbucket.org",
       "cost_per_hour":"14.25",
       "description":"The hourly rate for Greg"
     }
@@ -12,7 +12,7 @@
       "event":"commit",
       "action":"added",
       "chargetype":"author",
-      "chargeref":"gemartin@gmail.com",
+      "chargeref":"triggerman@bitbucket.org",
       "description":"Author specific charge for Greg when he adds something in a commit.",
       "calculationtype":"normal",
       "chargeamount":"45.23"
@@ -21,7 +21,7 @@
       "event":"commit",
       "action":"modified",
       "chargetype":"author",
-      "chargeref":"gemartin@gmail.com",
+      "chargeref":"triggerman@bitbucket.org",
       "description":"Author specific charge for Greg when he modifies something in a commit.",
       "calculationtype":"normal",
       "chargeamount":"23.16"
