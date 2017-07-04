@@ -1,0 +1,38 @@
+{
+  "currency":"cad",
+  "hourly_rates": [
+    {
+      "author_email":"gemartin@gmail.com",
+      "cost_per_hour":"14.25",
+      "description":"The hourly rate for Greg"
+    }
+  ],
+  "charges": [
+    {
+      "event":"commit",
+      "action":"added",
+      "chargetype":"author",
+      "chargeref":"gemartin@gmail.com",
+      "description":"Author specific charge for Greg when he adds something in a commit.",
+      "calculationtype":"normal",
+      "chargeamount":"45.23"
+    },
+    {
+      "event":"commit",
+      "action":"modified",
+      "chargetype":"author",
+      "chargeref":"gemartin@gmail.com",
+      "description":"Author specific charge for Greg when he modifies something in a commit.",
+      "calculationtype":"normal",
+      "chargeamount":"23.16"
+    },
+    {
+      "event":"commit",
+      "action":"any",
+      "chargetype":"tax",
+      "description":"HST",
+      "calculationtype":"percent",
+      "chargeamount":"13.20"
+    }
+  ]
+}
