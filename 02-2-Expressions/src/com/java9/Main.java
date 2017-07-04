@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println(65 / 3.141592653);
 
-        System.out.println(475 % 8);
+        System.out.println(475 % 8);//mod operator.
 
         System.out.println(14^6);
 
