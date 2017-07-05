@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         int m=0, n; // Two integer variables
-        double x, y = 0; // Two real coordinates
+        double x, y = 0; // Two decimal values
         boolean b; // Either ‘true’ or ‘false’
         char ch; // A character, such as ‘P’ or ‘@’
         float f = 0;
