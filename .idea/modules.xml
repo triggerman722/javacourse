@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/02-01-Declarations/02-01-Declarations.iml" filepath="$PROJECT_DIR$/02-01-Declarations/02-01-Declarations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-10-EnumAdvanced/02-10-EnumAdvanced.iml" filepath="$PROJECT_DIR$/02-10-EnumAdvanced/02-10-EnumAdvanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-2-Expressions/02-2-Expressions.iml" filepath="$PROJECT_DIR$/02-2-Expressions/02-2-Expressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-3-Assignment/02-3-Assignment.iml" filepath="$PROJECT_DIR$/02-3-Assignment/02-3-Assignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-3-Pitfall/02-3-Pitfall.iml" filepath="$PROJECT_DIR$/02-3-Pitfall/02-3-Pitfall.iml" />
