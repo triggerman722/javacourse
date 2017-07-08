@@ -54,7 +54,7 @@ public abstract class ChessBoard extends JFrame implements MouseListener, MouseM
         JLabel piece = new JLabel( new ImageIcon("dukewavered.gif") );
         JPanel panel = (JPanel)chessBoard.getComponent( 0 );
         panel.add( piece );
-        piece = new JLabel( new ImageIcon("./dukewavered.gif") );
+        piece = new JLabel( new ImageIcon("dukewavered.gif") );
 
         panel = (JPanel)chessBoard.getComponent( 16 );
         panel.add( piece );
