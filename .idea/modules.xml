@@ -67,6 +67,8 @@
       <module fileurl="file://$PROJECT_DIR$/11-2-LondonIceCream/11-2-LondonIceCream.iml" filepath="$PROJECT_DIR$/11-2-LondonIceCream/11-2-LondonIceCream.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-3-WebUML/11-3-WebUML.iml" filepath="$PROJECT_DIR$/11-3-WebUML/11-3-WebUML.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-4-Sound/11-4-Sound.iml" filepath="$PROJECT_DIR$/11-4-Sound/11-4-Sound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-5-LayeredPane/11-5-LayeredPane.iml" filepath="$PROJECT_DIR$/11-5-LayeredPane/11-5-LayeredPane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-6-Chessboard/11-6-Chessboard.iml" filepath="$PROJECT_DIR$/11-6-Chessboard/11-6-Chessboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/course.iml" filepath="$PROJECT_DIR$/course.iml" />
     </modules>
   </component>
