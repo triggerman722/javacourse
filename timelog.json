@@ -1,9 +1,5 @@
 {
-"time_worked": [
-        {
-                "hours":"2",
-                "minutes":"15",
-                "seconds":"00"
-        }
-]
+   "hours":"4",
+   "minutes":"15",
+   "seconds":"00"
 }
