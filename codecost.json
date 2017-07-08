@@ -5,6 +5,11 @@
       "author_email":"triggerman@bitbucket.org",
       "cost_per_hour":"14.25",
       "description":"The hourly rate for Greg"
+    },
+    {
+      "author_email":"gemartin@gmail.com",
+      "cost_per_hour":"16.27",
+      "description":"The hourly rate for Greg 2"
     }
   ],
   "charges": [
