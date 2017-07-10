@@ -3,11 +3,13 @@ package java9;
 /**
  * Created by 1 on 07.10.2014.
  */
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
+import java.awt.Dimension;
+import java.awt.GridLayout;
+import java.awt.Panel;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
 
-public class ChessBoard extends JPanel
+public class ChessBoard extends Panel
 {
     ChessPiece selectedChessPiece = null;
     public ChessBoard(Dimension boardSize)
@@ -24,7 +26,7 @@ public class ChessBoard extends JPanel
                 square.addMouseListener(new MouseAdapter() {
                     @Override
                     public void mousePressed(MouseEvent e) {
-                        ChessSquare square = (ChessSquare) e.getSource();
+                        ChessSquare square = (ChessSquare) e.getComponent();
                         if (square.getComponentCount() > 0) {
                             selectedChessPiece = (ChessPiece) square.getComponent(0);
                             square.remove(0);

@@ -1,12 +1,13 @@
 package java9;
 
-import javax.swing.*;
-import java.awt.*;
+import java.awt.BorderLayout;
+import java.awt.Color;
+import java.awt.Panel;
 
 /**
  * Created by greg on 08/07/17.
  */
-public class ChessSquare  extends JPanel{
+public class ChessSquare  extends Panel{
 
     public ChessSquare(boolean isBlack) {
         this.setLayout(new BorderLayout());

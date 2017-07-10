@@ -1,31 +1,29 @@
 package java9;
 
-import javax.swing.*;
-import java.awt.*;
+import java.awt.Dimension;
+import java.awt.Frame;
+import java.awt.event.WindowAdapter;
+import java.awt.event.WindowEvent;
 
 /**
  * Created by greg on 08/07/17.
  */
-public class ChessWindow extends JFrame {
-
-    private JLayeredPane layeredPane;
+public class ChessWindow extends Frame {
 
     public void start() {
-        Dimension boardSize = new Dimension(600, 600);
-        layeredPane = new JLayeredPane();
-        getContentPane().add(layeredPane);
-        layeredPane.setPreferredSize( boardSize );
 
-        this.setDefaultCloseOperation( DISPOSE_ON_CLOSE );
-        this.pack();
-        this.setResizable( false );
-        this.setLocationRelativeTo( null );
+        Dimension boardSize = new Dimension(600,600);
+        this.setSize(boardSize);
 
         ChessBoard chessBoard = new ChessBoard(boardSize);
-        layeredPane.add(chessBoard, JLayeredPane.DEFAULT_LAYER);
-
+        this.add(chessBoard);
         this.setVisible(true);
-
+        this.addWindowListener(new WindowAdapter() {
+            @Override
+            public void windowClosing(WindowEvent e) {
+                dispose();
+            }
+        });
     }
 
     public static void main(String[] args)
@@ -33,4 +31,5 @@ public class ChessWindow extends JFrame {
         ChessWindow chessWindow = new ChessWindow();
         chessWindow.start();
     }
+
 }
