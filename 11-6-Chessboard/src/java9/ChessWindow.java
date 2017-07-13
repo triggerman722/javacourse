@@ -18,6 +18,8 @@ public class ChessWindow extends Frame {
         ChessBoard chessBoard = new ChessBoard(boardSize);
         this.add(chessBoard);
         this.setVisible(true);
+        this.setTitle("The Wonderful World of Chessboards!!!");
+
         this.addWindowListener(new WindowAdapter() {
             @Override
             public void windowClosing(WindowEvent e) {
