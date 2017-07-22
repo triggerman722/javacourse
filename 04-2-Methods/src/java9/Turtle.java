@@ -12,7 +12,7 @@ public class Turtle {
     * be kept private to prevent other classes from accessing them
     * directly.
     */
-    private boolean penDown;
+    private boolean isColdBlooded;
 
    /*
     * The protected keyword specifies that something can be accessed
