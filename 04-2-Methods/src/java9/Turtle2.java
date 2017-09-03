@@ -21,7 +21,7 @@ public class Turtle2 {
      */
     protected int x, y;
 
-    // The "jumpTo" method accepts two integers - newX and newY,
+    // The "jumpTo" method accepts two integers - newX and newY --random change.,
     // which are referred to as "parameters".
     // When "jumpTo" is called, these two integer values must be provided
     // to this method by the caller.
