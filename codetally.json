@@ -42,6 +42,15 @@
     },
     {
       "event":"commit",
+      "action":"removed",
+      "chargetype":"author",
+      "chargeref":"gemartin@gmail.com",
+      "description":"Author specific charge for Greg when he modifies something in a commit.",
+      "calculationtype":"normal",
+      "chargeamount":"3.47"
+    },
+    {
+      "event":"commit",
       "action":"any",
       "chargetype":"tax",
       "description":"HST",
