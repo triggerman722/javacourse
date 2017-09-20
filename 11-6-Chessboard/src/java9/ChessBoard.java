@@ -1,7 +1,7 @@
 package java9;
 
 /**
- * Created by 1 on 07.10.2014.
+ * Created by 1 on 07.10.2014. //random change 
  */
 import java.awt.Dimension;
 import java.awt.GridLayout;
